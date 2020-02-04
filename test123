@@ -1,2 +1,7 @@
 name = "Andy"
 print("Hello Im", name)
+print("Hello Im", name)
+#在外部
+#添加的文件
+#可
+#添加到Git
