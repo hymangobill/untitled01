@@ -36,3 +36,8 @@ e = n % 2 == 1   #取餘數 #餘數為0 #不等於1 #不成立時 false
 print(e)
 
 ################################加減乘除餘數 測試##############################################
+
+#使用Pycharm中版本控制（Git）的正确姿势
+#https://blog.csdn.net/qq_38604355/article/details/105483794?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribut
+#前往 VCS → VCS Operations Popup… → Commit…      #提交更改檔案
+#前往 VCS，选择 Git，然后选择 Resolve conflicts…    #比較檔案的不同 #也可以直接點選檔案比較不同
