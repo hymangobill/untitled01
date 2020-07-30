@@ -43,3 +43,6 @@ print(e)
 #前往 VCS，选择 Git，然后选择 Resolve conflicts…    #比較檔案的不同 #也可以直接點選檔案比較不同
 
 #123456789789789
+
+#https://www.cnblogs.com/ailiailan/p/11804163.html
+#git教學
