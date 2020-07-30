@@ -45,4 +45,4 @@ print(e)
 #123456789789789
 
 #https://www.cnblogs.com/ailiailan/p/11804163.html
-#git教學01
+#git教學02
