@@ -1,0 +1,34 @@
+Index: git01.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- git01.py	(revision 42bef62916bd2a6b326c83457e3887b1a775c8e9)
++++ git01.py	(revision 294b11eeecd14befbf8a0f1e6403d22642028fc1)
+@@ -40,4 +40,6 @@
+ #使用Pycharm中版本控制（Git）的正确姿势
+ #https://blog.csdn.net/qq_38604355/article/details/105483794?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribut
+ #前往 VCS → VCS Operations Popup… → Commit…      #提交更改檔案
+-#前往 VCS，选择 Git，然后选择 Resolve conflicts…    #比較檔案的不同 #也可以直接點選檔案比較不同
+\ No newline at end of file
++#前往 VCS，选择 Git，然后选择 Resolve conflicts…    #比較檔案的不同 #也可以直接點選檔案比較不同
++
++#TEXT123456789789
+\ No newline at end of file
+Index: test123
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test123	(revision 42bef62916bd2a6b326c83457e3887b1a775c8e9)
++++ test123	(revision 294b11eeecd14befbf8a0f1e6403d22642028fc1)
+@@ -5,4 +5,6 @@
+ #添加的文件
+ #可
+ #添加到Git
+-#TEXT123456789
+\ No newline at end of file
++#TEXT123456789
++
++#TEXT123456789789
+\ No newline at end of file
